@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="README-es.md">
+    <img src="https://img.shields.io/badge/-🌐%20LEER%20EN%20ESPAÑOL-000000?style=flat" alt="Leer en Español">
+  </a>
+</p>
+
 ##### Hi, I'm Axis:
 
 - 🎓 Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC)
