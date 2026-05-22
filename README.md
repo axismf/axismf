@@ -1,16 +1,16 @@
 <p align="right">
-  <a href="README-es.md">
-    <img src="https://img.shields.io/badge/-🌐%20LEER%20EN%20ESPAÑOL-000000?style=flat" alt="Leer en Español">
+  <a href="README-en.md">
+    <img src="https://img.shields.io/badge/-🌐%20READ%20IN%20ENGLISH-000000?style=flat" alt="English">
   </a>
 </p>
 
-##### Hi, I'm Axis:
+##### Hola, soy Axis:
 
-- 🎓 Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC)
-- :test_tube: Exploring the intersection of low-level software and hardware via Embedded Systems & IoT
-- 🪐 Looking forward to building autonomous systems, robotics, and advanced computer vision applications
-- :speech_balloon: Ask me about C/C++, algorithmic path optimization, hardware integration, or literally anything!
-- :mailbox: You can reach me with the links below
+- 🎓 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC)
+- :test_tube: Explorando la intersección entre el software de bajo nivel y el hardware a través de Sistemas Embebidos e IoT
+- 🪐 Interesado en el desarrollo de sistemas autónomos, robótica y aplicaciones avanzadas de visión computacional
+- :speech_balloon: ¡Pregúntame sobre C/C++, optimización algorítmica de trayectorias, integración de hardware o literalmente cualquier cosa!
+- :mailbox: Puedes contactarme en los siguientes enlaces
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI">
@@ -24,21 +24,21 @@
   </a>
 </p>
 
-##### A bit more about me
+##### Un poco más sobre mí
 
-- 📋 I serve as the **Logistics Coordinator** for the **IEEE Computer Society** at UPC.
-- 🏊‍♂️ Outside of the terminal, I'm a competitive swimmer and certified instructor (FDPN).
-- 🎬 For me, engineering is the perfect intersection of art and science. I draw my creative and aesthetic inspiration from underground electronic music and cinema.
-- 🍵 *"It is important to draw wisdom from different places. If you take it from only one place it becomes rigid and stale."* — Uncle Iroh
+- 📋 Me desempeño como **Coordinador de Logística** para la **IEEE Computer Society** en la UPC.
+- 🏊‍♂️ Fuera de la terminal, soy nadador competitivo e instructor certificado (FDPN).
+- 🎬 Para mí, la ingeniería es la intersección perfecta entre arte y ciencia. Encuentro mi inspiración creativa y estética en la música electrónica underground y el cine.
+- 🍵 *"Es importante extraer sabiduría de diferentes lugares. Si la tomas de un solo lugar, se vuelve rígida y rancia."* — Tío Iroh
 
-##### Languages
+##### Lenguajes
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
-##### Some of the technologies I have worked with
+##### Algunas de las tecnologías con las que he trabajado
 
 ![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=Arduino&logoColor=00979D)
 ![ESP32](https://img.shields.io/badge/-ESP32-222222?style=flat&logo=espressif&logoColor=E7352C)
@@ -48,15 +48,15 @@
 ![Computer Vision](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-222222?style=flat&logo=leetcode&logoColor=FF6F00)
 
-##### Some of my featured projects
+##### Algunos de mis proyectos destacados
 
 [![AUV Path Optimization](https://img.shields.io/badge/-AUV%20Path%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/TU_REPO_AUV)
 
-##### Fun fact: The best debugging tool is sometimes just taking a step back
+##### Dato curioso: A veces, la mejor herramienta de debugging es simplemente dar un paso atrás
 <!-- wi*quL3fcV -->
 
 ```cpp
-// As a wise man once said...
-std::string getAdvice() {
-    return "While it is always best to believe in oneself, a little help from others can be a great blessing.";
+// Como dijo una vez un hombre sabio...
+std::string obtenerConsejo() {
+    return "Aunque siempre es mejor creer en uno mismo, un poco de ayuda de los demás puede ser una gran bendición.";
 }
