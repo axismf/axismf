@@ -13,10 +13,10 @@
 - :mailbox: You can reach me with the links below
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/sebastianmartinf">
     <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:TU_CORREO_AQUI">
+  <a href="mailto:asebastian.martinf@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/axismf">
