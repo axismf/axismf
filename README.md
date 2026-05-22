@@ -1,47 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sebastián (Axis)</h1>
-<h4 align="center">Software Engineering Student @ UPC | C/C++, Python | Embedded & IoT | Computer Vision</h4>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Sebasti%C3%A1n%20(Axis)&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Embedded%20%26%20IoT&descAlignY=60&descSize=20)](https://github.com/axismf)
 
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:TU_CORREO_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+##### Hi, I'm Sebastián:
 
----
+- 🎓 Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC)
+- :test_tube: Exploring the intersection of low-level software and physical hardware via Embedded Systems & IoT
+- 🪐 Looking forward to building autonomous systems, robotics, and advanced computer vision applications
+- :speech_balloon: Ask me about C/C++, algorithmic path optimization, hardware integration, or literally anything!
+- :mailbox: You can reach me with the links below
 
-## 💻 Tech Stack
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN_AQUI)
+[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axismf)
 
-> **Languages**  
-> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
->
-> **Hardware & IoT**  
-> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
->
-> **Tools & Domains**  
-> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+##### Languages I use
 
----
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
-## 🚀 Featured Projects
+##### Some of the technologies I have worked with
 
-### [🤖 AUV Path Optimization](https://github.com/axismf/TU_REPO_AUV)
-> An engineering project focused on optimizing Autonomous Underwater Vehicle (AUV) paths to minimize energy consumption. Modeling efficient navigation paths by analyzing real-world oceanic currents.
-> 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dijkstra](https://img.shields.io/badge/Dijkstra's_Algorithm-FF6F00?style=flat-square) ![Data](https://img.shields.io/badge/Copernicus_Data-00599C?style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=Arduino&logoColor=00979D)
+![ESP32](https://img.shields.io/badge/-ESP32-222222?style=flat&logo=espressif&logoColor=E7352C)
+![STM32](https://img.shields.io/badge/-STM32-222222?style=flat&logo=stmicroelectronics&logoColor=03234B)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![Computer Vision](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
+![Algorithms](https://img.shields.io/badge/-Algorithms-222222?style=flat&logo=leetcode&logoColor=FF6F00)
 
-### [📜 ProteccionDigital - Digital Notary Service](https://github.com/axismf/TU_REPO_NOTARIA)
-> A digital notary platform for intellectual property. Focused on system architecture, requirements engineering, and problem statements for generating unique digital fingerprints for multimedia files.
-> 
-> ![Architecture](https://img.shields.io/badge/System_Architecture-000000?style=flat-square) ![Requirements](https://img.shields.io/badge/Requirements_Engineering-5C3EE8?style=flat-square)
+##### Some of my featured projects
 
----
+[![AUV Path Optimization](https://img.shields.io/badge/-AUV%20Path%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/TU_REPO_AUV)
+[![ProteccionDigital](https://img.shields.io/badge/-ProteccionDigital-444444?style=flat&logo=github&logoColor=white)](https://github.com/axismf/TU_REPO_NOTARIA)
 
-## 📊 Analytics
+##### Fun fact: The best debugging tool is sometimes just taking a step back
+<!-- wi*quL3fcV -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axismf&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C" alt="Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axismf&layout=compact&theme=transparent&hide_border=true&title_color=00599C" alt="Top Langs" width="48%">
-</p>
+```cpp
+// As a wise man once said...
+std::string getAdvice() {
+    return "While it is always best to believe in oneself, a little help from others can be a great blessing.";
+}
