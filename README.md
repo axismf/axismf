@@ -50,7 +50,8 @@
 
 ##### Algunos de mis proyectos destacados
 
-[![AUV Path Optimization](https://img.shields.io/badge/-AUV%20Path%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/TU_REPO_AUV)
+[![Task Manager](https://img.shields.io/badge/-Task%20Manager-444444?style=flat&logo=react&logoColor=61DAFB)](https://axismf.github.io/task-manager/)
+[![AUV Path Optimization](https://img.shields.io/badge/-AUV%20Path%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/tf-auv-ruta)
 
 ##### Dato curioso: A veces, la mejor herramienta de debugging es simplemente dar un paso atrás
 <!-- wi*quL3fcV -->
