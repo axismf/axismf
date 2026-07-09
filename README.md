@@ -6,10 +6,10 @@
 
 ##### Hola, soy Axis:
 
-- 🎓 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC)
-- :test_tube: Explorando la intersección entre el software de bajo nivel y el hardware a través de Sistemas Embebidos e IoT
-- 🪐 Interesado en el desarrollo de sistemas autónomos, robótica y aplicaciones avanzadas de visión computacional
-- :speech_balloon: ¡Pregúntame sobre C/C++, optimización algorítmica de trayectorias, integración de hardware o literalmente cualquier cosa!
+- 🎓 Estudiante de Ingeniería de Software en la UPC (programa acreditado por ABET)
+- 🔬 Interesado en modelado algorítmico, arquitectura de software y desarrollo de aplicaciones científicas
+- 🧮 Me apasiona la optimización de algoritmos y el modelado matemático aplicado a problemas reales
+- :speech_balloon: ¡Pregúntame sobre Python, C++, algoritmos, o cualquier cosa!
 - :mailbox: Puedes contactarme en los siguientes enlaces
 
 <p align="center">
@@ -26,32 +26,37 @@
 
 ##### Un poco más sobre mí
 
-- 📋 Me desempeño como **Coordinador de Logística** para la **IEEE Computer Society** en la UPC.
-- 🏊‍♂️ Fuera de la terminal, soy nadador competitivo e instructor certificado (FDPN).
-- 🎬 Para mí, la ingeniería es la intersección perfecta entre arte y ciencia. Encuentro mi inspiración creativa y estética en la música electrónica underground y el cine.
+- 📋 Me desempeño como **Subdirector de Logística** para la **IEEE Computer Society** en la UPC.
+- 🏊‍♂️ Fuera de la terminal, soy nadador competitivo e instructor de natación.
+- 🎬 Para mí, la ingeniería es la intersección perfecta entre arte y ciencia.
 - 🍵 *"Es importante extraer sabiduría de diferentes lugares. Si la tomas de un solo lugar, se vuelve rígida y rancia."* — Tío Iroh
 
 ##### Lenguajes
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sqlite&logoColor=003B57)
 
-##### Algunas de las tecnologías con las que he trabajado
+##### Tecnologías
 
-![Arduino](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=Arduino&logoColor=00979D)
-![ESP32](https://img.shields.io/badge/-ESP32-222222?style=flat&logo=espressif&logoColor=E7352C)
-![STM32](https://img.shields.io/badge/-STM32-222222?style=flat&logo=stmicroelectronics&logoColor=03234B)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![Computer Vision](https://img.shields.io/badge/-OpenCV-222222?style=flat&logo=opencv&logoColor=5C3EE8)
-![Algorithms](https://img.shields.io/badge/-Algorithms-222222?style=flat&logo=leetcode&logoColor=FF6F00)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy&logoColor=4DABCF)
+![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat&logo=plotly&logoColor=3F4F75)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![pytest](https://img.shields.io/badge/-pytest-000000?style=flat&logo=python&logoColor=3776AB)
+![GDI+](https://img.shields.io/badge/-GDI%2B-000000?style=flat&logo=microsoft&logoColor=00A4EF)
 
-##### Algunos de mis proyectos destacados
+##### Proyectos Destacados
 
-[![Task Manager](https://img.shields.io/badge/-Task%20Manager-444444?style=flat&logo=react&logoColor=61DAFB)](https://axismf.github.io/task-manager/)
-[![AUV Path Optimization](https://img.shields.io/badge/-AUV%20Path%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/tf-auv-ruta)
+[![AUV Route Optimization](https://img.shields.io/badge/-AUV%20Route%20Optimization-444444?style=flat&logo=python&logoColor=3776AB)](https://github.com/axismf/auv-optimization)
+[![Task Manager](https://img.shields.io/badge/-Task%20Manager-444444?style=flat&logo=react&logoColor=61DAFB)](https://github.com/axismf/task-manager)
+[![Trapped in Dimensions](https://img.shields.io/badge/-Trapped%20in%20Dimensions-444444?style=flat&logo=c%2B%2B&logoColor=00599C)](https://github.com/axismf/trapped-in-dimensions-cpp)
+[![Billing System](https://img.shields.io/badge/-Billing%20System-444444?style=flat&logo=c%2B%2B&logoColor=00599C)](https://github.com/axismf/billing-system-cpp)
 
 ##### Dato curioso: A veces, la mejor herramienta de debugging es simplemente dar un paso atrás
 <!-- wi*quL3fcV -->
@@ -61,3 +66,4 @@
 std::string obtenerConsejo() {
     return "Aunque siempre es mejor creer en uno mismo, un poco de ayuda de los demás puede ser una gran bendición.";
 }
+```
